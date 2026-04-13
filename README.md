@@ -10,7 +10,7 @@ Solar energy efficiency drops significantly due to environmental factors and har
 
 ## 📊 Dataset
 To keep the repository lightweight, the raw image dataset is hosted externally.
-- [Download the Solar Image Dataset here](https://www.kaggle.com/datasets/viandre/solar-panel-images)
+- [Download the Solar Image Dataset here]([https://www.kaggle.com/datasets/viandre/solar-panel-images](https://www.kaggle.com/datasets/pythonafroz/solar-panel-images))
 
 > **Note:** After downloading, place the images in the `data/Solar panel Image/` directory to run the training notebooks.
 
