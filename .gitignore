@@ -1,0 +1,5 @@
+data/
+*.pkl
+*.h5
+*.keras
+.ipynb_checkpoints/
